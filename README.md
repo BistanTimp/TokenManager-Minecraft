@@ -1,7 +1,7 @@
 # TokenManager-Minecraft
 Minecraft mod for 1.8.9 that allows sign-in with session ID info
 
-Direct Download: http://bitly.ws/IBQM
+Direct Download: http://bitly.ws/IBXK
 
 Getting the dependency
 Repository
